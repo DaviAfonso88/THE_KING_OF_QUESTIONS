@@ -13,7 +13,7 @@
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20PROJETO%20CONCLUIDO&color=RED&style=for-the-badge"/>
 </p>
 
 # Indíce
@@ -37,9 +37,9 @@ O objetivo deste projeto é desenvolver um jogo de perguntas e respostas onde os
    
 # Definições e Siglas
 
-   **🎮JOGO: "_O Rei das Perguntas🏰👑 "**_
+   **🎮JOGO: " O Rei das Perguntas🏰👑 "**_
 
-**SINOPSE:** _Jogo de perguntas e respostas voltado para  aprendizagem em Matemática.
+**SINOPSE:** Jogo de perguntas e respostas voltado para  aprendizagem em Matemática.
 
 **PERSONAGENS:**
 
